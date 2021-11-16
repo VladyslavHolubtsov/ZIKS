@@ -1,0 +1,11 @@
+C:\Users\vlady\source\repos\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\vlady\source\repos\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\vlady\source\repos\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\vlady\source\repos\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\vlady\source\repos\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\vlady\source\repos\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\vlady\source\repos\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\vlady\source\repos\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\vlady\source\repos\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\vlady\source\repos\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\vlady\source\repos\lab5\lab5\bin\Debug\ChilkatDotNet4.dll
